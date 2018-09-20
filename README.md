@@ -18,3 +18,18 @@ over a rectangular region of the image. In image thresholding, the integral imag
 
 ## Instuction and Examples
 This C++ standard lib based project requires an image input named "raw.bmp" and outputs "gray.bmp" and "binary.bmp" successively. "gray.bmp" is the grayscale image of the input while "binary.bmp" is the product binary image. The console would output the information of the image and the processing duration of each phase.
+
+### Console Output
+![raw.bmp](https://github.com/Sendai25/ImageThresholding/blob/master/Compressed_image/console.jpg)
+
+### Example "raw.bmp"
+![raw.bmp](https://github.com/Sendai25/ImageThresholding/blob/master/Compressed_image/raw.jpg)
+
+### Example "gray.bmp"
+![raw.bmp](https://github.com/Sendai25/ImageThresholding/blob/master/Compressed_image/gray.jpg)
+
+### Example "binary.bmp"
+![raw.bmp](https://github.com/Sendai25/ImageThresholding/blob/master/Compressed_image/binary.jpg)
+
+## Reference
+Introduction of the technique is extracted from *Adaptive Thresholding Using the Integral Image* by Derek Bradley and Gerhard Roth.
